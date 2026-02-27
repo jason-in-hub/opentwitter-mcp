@@ -170,7 +170,7 @@ $env:TWITTER_TOKEN = "<your-token>"
   "mcpServers": {
     "twitter": {
       "command": "uv",
-      "args": ["--directory", "/path/to/twitter-mcp", "run", "twitter-mcp"],
+      "args": ["--directory", "/path/to/twitter-mcp", "run", "opentwitter-mcp"],
       "env": {
         "TWITTER_TOKEN": "<your-token>"
       }
